@@ -1,6 +1,7 @@
 # 🚀 SEO Booster Tool (Beta) 
 *Website:* (https://seo.rocket-hosting.xyz/)
 This tool is designed to find and open your website through google, simulate organic interactions with your website in order to make google think that your website is trending and boost its SEO performance on Google Search. It supports search query simulation automated page visits. > ⚠ *DISCLAIMER:* This tool is currently in *beta* and is not affiliated with or endorsed by Google. Use it at your own risk.
+ utc 11:20-12:40 is downtime everyday
  --- ## 🔧 How to Use ### 
 1. Select Your Plan When you visit the website, you'll see: 
 
