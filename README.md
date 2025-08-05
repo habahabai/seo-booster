@@ -26,36 +26,38 @@ Boost your website's search engine visibility through automated organic traffic 
 - Automated template generation
 - Credit calculation and allocation
 
-## 🚀 Getting Started
 
-### Step 1: Choose Your Plan
+### Step 1: goto Website: seo.rocket-hosting.xyz
+
+
+### Step 2: Choose Your Plan
 Visit the website and select:
 - **Option 1**: Free Plan (immediate access)
 - **Option 2**: Pro Plan (requires access key)
 
-### Step 2: Configure Location
+### Step 3: Configure Location
 Currently supports:
 - Germany, Frankfurt am Main (Option 1)
 
-### Step 3: Enter Your Domain
+### Step 4: Enter Your Domain
 - Enter your root domain (e.g., `example.com`)
 - Subdomains are automatically detected
 - System checks for AAAA DNS records and all indexed pages
 
-### Step 4: Prepare Your Content
+### Step 5: Prepare Your Content
 **Option A - Direct Input**: Enter search queries manually
 **Option B - CSV Upload** (Recommended): 
 - Download the provided template
 - Fill in your pages and search queries
 - Upload the completed file
 
-### Step 5: Schedule Your Boosts
+### Step 6: Schedule Your Boosts
 Configure timing preferences:
 - **Start delay**: Set when to begin (days/hours/minutes)
 - **Boost intervals**: Control spacing between activities
 - **Duration settings**: Spread activity over time
 
-### Step 6: Review & Launch
+### Step 7: Review & Launch
 - Review your boost summary
 - Confirm credit allocation
 - Submit to processing queue
